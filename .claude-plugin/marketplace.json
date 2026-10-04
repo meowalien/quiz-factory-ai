@@ -1,0 +1,15 @@
+{
+  "name": "quiz-factory",
+  "description": "Turn anything into a quiz bank",
+  "owner": {
+    "name": "Quiz Factory",
+    "url": "https://quiz-factory.tw"
+  },
+  "plugins": [
+    {
+      "name": "quiz-factory",
+      "source": "./",
+      "description": "Create practice question banks from any topic, notes or document right in your chat, then drill them on the web, share them with people you invite, or publish them."
+    }
+  ]
+}

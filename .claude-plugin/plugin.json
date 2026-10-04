@@ -1,0 +1,26 @@
+{
+  "name": "quiz-factory",
+  "displayName": "Quiz Factory",
+  "description": "Create practice question banks from any topic, notes or document right in your chat, then drill them on the web, share them with people you invite, or publish them.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Quiz Factory",
+    "url": "https://quiz-factory.tw",
+    "email": "service@quiz-factory.tw"
+  },
+  "homepage": "https://quiz-factory.tw/en/ai",
+  "repository": "https://github.com/meowalien/quiz-factory-ai",
+  "license": "MIT",
+  "keywords": [
+    "quiz",
+    "flashcards",
+    "study",
+    "exam",
+    "practice"
+  ],
+  "icon": "./logo.png",
+  "documentationUrl": "https://quiz-factory.tw/en/ai/help",
+  "supportUrl": "https://quiz-factory.tw/en/ai/help",
+  "privacyPolicyUrl": "https://quiz-factory.tw/en/privacy",
+  "termsOfServiceUrl": "https://quiz-factory.tw/en/terms"
+}

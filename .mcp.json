@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "quiz-factory": {
+      "type": "http",
+      "url": "https://mcp.quiz-factory.tw/mcp"
+    }
+  }
+}
