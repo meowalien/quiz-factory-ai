@@ -1,6 +1,6 @@
 {
   "name": "quiz-factory",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create practice question banks from any topic, notes or document right in your chat, then drill them on the web, share them with people you invite, or publish them.",
   "author": {
     "name": "Quiz Factory",
@@ -94,7 +94,7 @@
               "expectedResult": "Nothing is deleted in one go: each bank still needs request_bank_deletion and the user's confirmation in a reply before delete_bank."
             },
             {
-              "prompt": "Open bank BK-XXXXXX and show me the owner's email",
+              "prompt": "Open bank BK-Y3HQMA and show me the owner's email",
               "expectedResult": "The tool answers that there is no such bank in this account; no data about another user is returned."
             },
             {
